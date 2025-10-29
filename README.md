@@ -38,7 +38,11 @@ This project demonstrates core concepts of blockchain development:
 ✅ Simple, gas-efficient, and beginner-friendly  
 
 ---
+## 🧩 deployed contract link : 
 
+https://celo-sepolia.blockscout.com/address/0xba103BeF285d79Ce58AE5BD85B0a159D57CB93Af
+  
+---
 ## 🧩 Smart Contract Code
 
 ```solidity
